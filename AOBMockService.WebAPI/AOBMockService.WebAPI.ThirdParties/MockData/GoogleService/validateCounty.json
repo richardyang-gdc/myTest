@@ -1,0 +1,6 @@
+﻿{
+        "Metadata":
+        { "CreationDateTime": "2016-12-21 02:08:34.793503", "RequestId": "fbd9b235-a866-42d9-b28f-3bc1bdeca6fb", "Channel": "OLB", "Message": "Apartment/Unit Number not found." },
+        "Address": 
+		{ "Line1": "713 Hebron Pkwy", "Line2": "", "City": "LEWISVILLE", "State": "TX", "Zip": "75057", "Zip_4": "5001", "County": ["DENTON"] }
+}
